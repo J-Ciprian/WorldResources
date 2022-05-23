@@ -6,3 +6,4 @@
  -Maria Fernanda Ojeda Carrillo
  -Brian Vallejo Alvarado
  -Enrique Isidro Sánchez Olvera
+Por cuestión de tiempo y por fallas de Unity, las otras escenas no se pudieron implementar en el producto final. Pedimos tener en consideración esto al calificar el proyecto. 
